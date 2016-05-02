@@ -14,7 +14,6 @@ sudo apt-get update && sudo apt-get install conky-manager
 ```
 
 after having done you can now enjoy this widget.  
-take all the file create a .zip file.  
 open conky-manager through terminal  
 ``` $conky-manager ```  
 open zip file through conky-manager.  
