@@ -28,6 +28,5 @@ In the earlier version on All-in-one conky there was slight issue as the window 
 * expression involving decimal substraction.
 * change of the window size and positions of underling objects and also managed the flickering issue.
 * changed the earlier used yahoo api to openweathermap api as yahoo api had been reconfigured and didnot support the direct access to api.
-
-
+* included the icons as per the openweathermap site.
 
