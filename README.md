@@ -21,3 +21,13 @@ open zip file through conky-manager.
 and its ready to use.But few this to do before use change the key and city name,go to the website ``` http://openweathermap.org/ ``` get the key and replace, now you will be able to see the temperature and weather condition.
 
 In the earlier version on All-in-one conky there was slight issue as the window flickering as well the temperature not working ,the issues have been fixed here. I have added a new feature as you can now see the weather condition as well which was absent in the previous version.
+
+# features changed
+
+* effective xml data extraction by improving the regular expression.  
+* expression involving decimal substraction.
+* change of the window size and positions of underling objects and also managed the flickering issue.
+* changed the earlier used yahoo api to openweathermap api as yahoo api had been reconfigured and didnot support the direct access to api.
+
+
+
