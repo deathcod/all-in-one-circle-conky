@@ -2,7 +2,7 @@
 this is a widget which is based on conky which has the same look as LG G3 style.
 
 This is the preview of the widget:  
-![input](https://raw.githubusercontent.com/deathcod/all-in-one-circle-conky/master/Screenshot%20from%202016-05-02%2018%3A56%3A32.png)
+![input](https://github.com/deathcod/all-in-one-circle-conky/blob/master/Screenshot%20from%202016-05-04%2003:20:55.png)
 
 # installation
 
